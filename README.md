@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @apipit
-- 👀 I’m interested in Tech and Website sometimes
-- 🌱 I’m currently learning Frontend
-- 📫 Email : propratamax1@gmail.com
+
 
 
 <!---
