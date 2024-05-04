@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @apipit
 
 - undergraduate software engineering
-- Full Time Admin Collection
 - Ctrl + Alt + V 📊
 - Sehat sehat orang sehat    
 
